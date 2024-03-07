@@ -35,7 +35,7 @@ const SliderTwo = () => {
                                     </div>
                                     <div className="sub-img absolute sm:w-1/2 w-[54%] 2xl:-right-[60px] right-0 bottom-0">
                                         <Image
-                                            src={'/images/slider/bg2-1.png'}
+                                            src={'/images/slider2/hero-2-right-1.png'}
                                             width={670}
                                             height={936}
                                             alt='bg2-1'
@@ -56,7 +56,7 @@ const SliderTwo = () => {
                                     </div>
                                     <div className="sub-img absolute sm:w-1/2 w-3/5 2xl:-right-[60px] -right-4 bottom-0">
                                         <Image
-                                            src={'/images/slider/bg2-2.png'}
+                                            src={'/images/slider2/hero-right-3.png'}
                                             width={670}
                                             height={936}
                                             alt='bg2-2'
@@ -77,7 +77,7 @@ const SliderTwo = () => {
                                     </div>
                                     <div className="sub-img absolute sm:w-1/2 w-3/5 2xl:-right-[36px] right-0 sm:bottom-0 -bottom-[30px]">
                                         <Image
-                                            src={'/images/slider/bg2-3.png'}
+                                            src={'/images/slider2/hero-right-2.png'}
                                             width={670}
                                             height={936}
                                             alt='bg2-3'

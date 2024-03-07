@@ -13,13 +13,14 @@ import Testimonial from '@/components/Home1/Testimonial'
 import Instagram from '@/components/Home1/Instagram'
 import Brand from '@/components/Home1/Brand'
 import Footer from '@/components/Footer/Footer'
+import MenuTwo from '@/components/Header/Menu/MenuTwo'
 
 export default function Home() {
   return (
     <>
       <TopNavOne props="style-one bg-black" slogan="New customers save 10% with the code GET10" />
       <div id="header" className='relative w-full'>
-        <MenuOne props="bg-transparent" />
+      <MenuTwo />
         <SliderOne />
       </div>
       <WhatNewOne data={productData} start={0} limit={4} />

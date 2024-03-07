@@ -22,7 +22,7 @@ const Collection: React.FC<Props> = ({ props }) => {
     return (
         <>
             <div className={`collection-block ${props}`}>
-                <div className="list-collection section-swiper-navigation sm:px-5 px-4">
+                <div className="list-collection section-swiper-navigation sm:px-5 px-4 ">
                     <Swiper
                         spaceBetween={12}
                         slidesPerView={2}
@@ -49,7 +49,7 @@ const Collection: React.FC<Props> = ({ props }) => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('swimwear')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/swimwear.png'}
+                                        src={'/images/collections/department1.png'}
                                         width={1000}
                                         height={600}
                                         alt='swimwear'
@@ -62,7 +62,7 @@ const Collection: React.FC<Props> = ({ props }) => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('top')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/top.png'}
+                                        src={'/images/collections/1.png'}
                                         width={1000}
                                         height={600}
                                         alt='clothes'
@@ -75,7 +75,7 @@ const Collection: React.FC<Props> = ({ props }) => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('sets')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/sets.png'}
+                                        src={'/images/collections/2.png'}
                                         width={1000}
                                         height={600}
                                         alt='sets'
@@ -88,7 +88,7 @@ const Collection: React.FC<Props> = ({ props }) => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('outerwear')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/outerwear.png'}
+                                        src={'/images/collections/3.png'}
                                         width={1000}
                                         height={600}
                                         alt='accessories'
@@ -101,7 +101,7 @@ const Collection: React.FC<Props> = ({ props }) => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('underwear')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/underwear.png'}
+                                        src={'/images/collections/4.png'}
                                         width={1000}
                                         height={600}
                                         alt='lingerie'
@@ -114,7 +114,7 @@ const Collection: React.FC<Props> = ({ props }) => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('t-shirt')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/t-shirt.png'}
+                                        src={'/images/collections/5.png'}
                                         width={1000}
                                         height={600}
                                         alt='outerwear'

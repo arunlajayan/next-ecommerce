@@ -25,24 +25,24 @@
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/1-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/1-3.png"
+                "image": "/images/products/3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/1-1.png",
-            "/images/product/fashion/1-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/1-1.png",
-            "/images/product/fashion/1-2.png",
-            "/images/product/fashion/1-3.png",
-            "/images/product/fashion/1-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -51,8 +51,8 @@
     {
         "id": "2",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "Raglan Sleeve T-shirt",
+        "type": "blue",
+        "name": "Raglan Sleeve blue",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -76,24 +76,24 @@
                 "color": "white",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/2-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/2-4.png"
+                "image": "/images/products/4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/2-1.png",
-            "/images/product/fashion/2-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/2-1.png",
-            "/images/product/fashion/2-2.png",
-            "/images/product/fashion/2-3.png",
-            "/images/product/fashion/2-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -122,30 +122,30 @@
                 "color": "pink",
                 "colorCode": "#F4407D",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/3-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/3-3.png"
+                "image": "/images/products/3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/3-4.png"
+                "image": "/images/products/4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/3-1.png",
-            "/images/product/fashion/3-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/3-1.png",
-            "/images/product/fashion/3-2.png",
-            "/images/product/fashion/3-3.png",
-            "/images/product/fashion/3-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -154,7 +154,7 @@
     {
         "id": "4",
         "category": "fashion",
-        "type": "t-shirt",
+        "type": "blue",
         "name": "Kimono sleeve top",
         "gender": "women",
         "new": false,
@@ -177,30 +177,30 @@
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/4-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "white",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/4-3.png"
+                "image": "/images/products/3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/4-4.png"
+                "image": "/images/products/4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/4-1.png",
-            "/images/product/fashion/4-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/4-1.png",
-            "/images/product/fashion/4-2.png",
-            "/images/product/fashion/4-3.png",
-            "/images/product/fashion/4-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -232,29 +232,29 @@
                 "color": "black",
                 "colorCode": "#1F1F1F",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/5-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/5-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/5-3.png"
+                "image": "/images/products/3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/5-1.png",
-            "/images/product/fashion/5-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/5-1.png",
-            "/images/product/fashion/5-2.png",
-            "/images/product/fashion/5-3.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -264,7 +264,7 @@
         "id": "6",
         "category": "fashion",
         "type": "sets",
-        "name": "Raglan Sleeve T-shirt",
+        "name": "Raglan Sleeve blue",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -288,30 +288,30 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/6-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/6-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/6-3.png"
+                "image": "/images/products/3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/6-1.png",
-            "/images/product/fashion/6-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/6-1.png",
-            "/images/product/fashion/6-2.png",
-            "/images/product/fashion/6-3.png",
-            "/images/product/fashion/6-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -340,36 +340,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/7-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/7-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "white",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/7-3.png"
+                "image": "/images/products/3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/7-4.png"
+                "image": "/images/products/4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/7-1.png",
-            "/images/product/fashion/7-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/7-1.png",
-            "/images/product/fashion/7-2.png",
-            "/images/product/fashion/7-3.png",
-            "/images/product/fashion/7-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -401,36 +401,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/8-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/8-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/8-3.png"
+                "image": "/images/products/3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/8-4.png"
+                "image": "/images/products/4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/8-1.png",
-            "/images/product/fashion/8-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/8-1.png",
-            "/images/product/fashion/8-2.png",
-            "/images/product/fashion/8-3.png",
-            "/images/product/fashion/8-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -439,7 +439,7 @@
     {
         "id": "9",
         "category": "fashion",
-        "type": "t-shirt",
+        "type": "blue",
         "name": "mesh shirt",
         "gender": "women",
         "new": true,
@@ -462,30 +462,30 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/9-1.png"
+                "image": "/images/products/1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/9-2.png"
+                "image": "/images/products/2.png"
             },
             {
                 "color": "white",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/9-3.png"
+                "image": "/images/products/3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/9-1.png",
-            "/images/product/fashion/9-2.png"
+            "/images/products/1.png",
+            "/images/products/2.png"
         ],
         "images": [
-            "/images/product/fashion/9-1.png",
-            "/images/product/fashion/9-2.png",
-            "/images/product/fashion/9-3.png",
-            "/images/product/fashion/9-4.png"
+            "/images/products/1.png",
+            "/images/products/2.png",
+            "/images/products/3.png",
+            "/images/products/4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -494,8 +494,8 @@
     {
         "id": "10",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "Raglan Sleeve T-shirt",
+        "type": "blue",
+        "name": "Raglan Sleeve blue",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -519,36 +519,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/10-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/10-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/10-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/10-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/10-1.png",
-            "/images/product/fashion/10-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/10-1.png",
-            "/images/product/fashion/10-2.png",
-            "/images/product/fashion/10-3.png",
-            "/images/product/fashion/10-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -557,7 +557,7 @@
     {
         "id": "11",
         "category": "fashion",
-        "type": "t-shirt",
+        "type": "blue",
         "name": "Off-the-Shoulder Blouse",
         "gender": "women",
         "new": false,
@@ -577,30 +577,30 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/11-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "white",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/11-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/11-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/11-1.png",
-            "/images/product/fashion/11-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/11-1.png",
-            "/images/product/fashion/11-2.png",
-            "/images/product/fashion/11-3.png",
-            "/images/product/fashion/11-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -632,36 +632,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/12-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/12-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/12-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/12-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/12-1.png",
-            "/images/product/fashion/12-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/12-1.png",
-            "/images/product/fashion/12-2.png",
-            "/images/product/fashion/12-3.png",
-            "/images/product/fashion/12-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -670,7 +670,7 @@
     {
         "id": "13",
         "category": "fashion",
-        "type": "t-shirt",
+        "type": "blue",
         "name": "mesh shirt",
         "gender": "women",
         "new": true,
@@ -693,36 +693,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/13-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/13-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/13-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/13-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/13-1.png",
-            "/images/product/fashion/13-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/13-1.png",
-            "/images/product/fashion/13-2.png",
-            "/images/product/fashion/13-3.png",
-            "/images/product/fashion/13-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -732,7 +732,7 @@
         "id": "14",
         "category": "fashion",
         "type": "sets",
-        "name": "Raglan Sleeve T-shirt",
+        "name": "Raglan Sleeve blue",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -756,36 +756,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/14-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/14-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/14-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/14-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/14-1.png",
-            "/images/product/fashion/14-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/14-1.png",
-            "/images/product/fashion/14-2.png",
-            "/images/product/fashion/14-3.png",
-            "/images/product/fashion/14-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -814,36 +814,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/15-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/15-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/15-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/15-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/15-1.png",
-            "/images/product/fashion/15-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/15-1.png",
-            "/images/product/fashion/15-2.png",
-            "/images/product/fashion/15-3.png",
-            "/images/product/fashion/15-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -875,36 +875,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/16-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/16-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/16-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/16-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/16-1.png",
-            "/images/product/fashion/16-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/16-1.png",
-            "/images/product/fashion/16-2.png",
-            "/images/product/fashion/16-3.png",
-            "/images/product/fashion/16-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -913,8 +913,8 @@
     {
         "id": "22",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "T-shirt Pockets",
+        "type": "blue",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -937,46 +937,46 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/21-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/21-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/21-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/21-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/21-2.png",
-            "/images/product/fashion/21-1.png"
+            "/images/products/-2.png",
+            "/images/products/-1.png"
         ],
         "images": [
-            "/images/product/fashion/21-2.png",
-            "/images/product/fashion/21-1.png",
-            "/images/product/fashion/21-3.png",
-            "/images/product/fashion/21-4.png"
+            "/images/products/-2.png",
+            "/images/products/-1.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "23",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "T-shirt Pockets",
+        "type": "blue",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -999,45 +999,45 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/21-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/21-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/21-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/21-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/21-3.png",
-            "/images/product/fashion/21-4.png"
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "images": [
-            "/images/product/fashion/21-3.png",
-            "/images/product/fashion/21-4.png",
-            "/images/product/fashion/21-1.png",
-            "/images/product/fashion/21-2.png"
+            "/images/products/-3.png",
+            "/images/products/-4.png",
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "17",
         "category": "fashion",
-        "type": "t-shirt",
+        "type": "blue",
         "name": "mesh shirt",
         "gender": "women",
         "new": true,
@@ -1060,36 +1060,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/17-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/17-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/17-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/17-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/17-1.png",
-            "/images/product/fashion/17-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/17-1.png",
-            "/images/product/fashion/17-2.png",
-            "/images/product/fashion/17-3.png",
-            "/images/product/fashion/17-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -1099,7 +1099,7 @@
         "id": "18",
         "category": "fashion",
         "type": "shirt",
-        "name": "Raglan Sleeve T-shirt",
+        "name": "Raglan Sleeve blue",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -1123,36 +1123,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/18-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/18-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/18-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/18-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/18-1.png",
-            "/images/product/fashion/18-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/18-1.png",
-            "/images/product/fashion/18-2.png",
-            "/images/product/fashion/18-3.png",
-            "/images/product/fashion/18-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -1181,36 +1181,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/19-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/19-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/19-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/19-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/19-1.png",
-            "/images/product/fashion/19-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/19-1.png",
-            "/images/product/fashion/19-2.png",
-            "/images/product/fashion/19-3.png",
-            "/images/product/fashion/19-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -1242,36 +1242,36 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/20-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/20-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/20-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/20-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/20-1.png",
-            "/images/product/fashion/20-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/20-1.png",
-            "/images/product/fashion/20-2.png",
-            "/images/product/fashion/20-3.png",
-            "/images/product/fashion/20-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -1280,8 +1280,8 @@
     {
         "id": "21",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "T-shirt Pockets",
+        "type": "blue",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -1304,46 +1304,46 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/21-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/21-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/21-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/21-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/21-1.png",
-            "/images/product/fashion/21-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/21-1.png",
-            "/images/product/fashion/21-2.png",
-            "/images/product/fashion/21-3.png",
-            "/images/product/fashion/21-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "24",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "T-shirt Pockets",
+        "type": "blue",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -1366,46 +1366,46 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/21-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/21-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/21-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/21-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/21-4.png",
-            "/images/product/fashion/21-3.png"
+            "/images/products/-4.png",
+            "/images/products/-3.png"
         ],
         "images": [
-            "/images/product/fashion/21-4.png",
-            "/images/product/fashion/21-3.png",
-            "/images/product/fashion/21-1.png",
-            "/images/product/fashion/21-2.png"
+            "/images/products/-4.png",
+            "/images/products/-3.png",
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "241",
         "category": "fashion",
-        "type": "t-shirt",
-        "name": "T-shirt Pockets",
+        "type": "blue",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -1428,26 +1428,26 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/21-6.png"
+                "image": "/images/products/-6.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/21-5.png"
+                "image": "/images/products/-5.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/21-6.png",
-            "/images/product/fashion/21-5.png"
+            "/images/products/-6.png",
+            "/images/products/-5.png"
         ],
         "images": [
-            "/images/product/fashion/21-6.png",
-            "/images/product/fashion/21-5.png"
+            "/images/products/-6.png",
+            "/images/products/-5.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "25",
@@ -1476,46 +1476,46 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/22-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/22-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/22-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/22-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/22-1.png",
-            "/images/product/fashion/22-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/22-1.png",
-            "/images/product/fashion/22-2.png",
-            "/images/product/fashion/22-3.png",
-            "/images/product/fashion/22-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "26",
         "category": "fashion",
         "type": "shirt",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -1538,46 +1538,46 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/23-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/23-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/23-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/23-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/23-1.png",
-            "/images/product/fashion/23-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/23-1.png",
-            "/images/product/fashion/23-2.png",
-            "/images/product/fashion/23-3.png",
-            "/images/product/fashion/23-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "27",
         "category": "fashion",
         "type": "shirt",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "men",
         "new": false,
         "sale": true,
@@ -1600,40 +1600,40 @@
                 "color": "green",
                 "colorCode": "#D2EF9A",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/24-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/24-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/24-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/24-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/24-1.png",
-            "/images/product/fashion/24-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/24-1.png",
-            "/images/product/fashion/24-2.png",
-            "/images/product/fashion/24-3.png",
-            "/images/product/fashion/24-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "28",
@@ -1661,36 +1661,36 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/25-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/25-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/25-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/25-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/25-1.png",
-            "/images/product/fashion/25-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/25-1.png",
-            "/images/product/fashion/25-2.png",
-            "/images/product/fashion/25-3.png",
-            "/images/product/fashion/25-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -1722,36 +1722,36 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/26-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/26-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/26-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/26-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/26-1.png",
-            "/images/product/fashion/26-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/26-1.png",
-            "/images/product/fashion/26-2.png",
-            "/images/product/fashion/26-3.png",
-            "/images/product/fashion/26-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -1761,7 +1761,7 @@
         "id": "30",
         "category": "fashion",
         "type": "swimwear",
-        "name": "Raglan Sleeve T-shirt",
+        "name": "Raglan Sleeve blue",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -1785,36 +1785,36 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/27-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/27-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/27-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/27-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/27-1.png",
-            "/images/product/fashion/27-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/27-1.png",
-            "/images/product/fashion/27-2.png",
-            "/images/product/fashion/27-3.png",
-            "/images/product/fashion/27-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -1843,36 +1843,36 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/28-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/28-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/28-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/28-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/28-1.png",
-            "/images/product/fashion/28-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/28-1.png",
-            "/images/product/fashion/28-2.png",
-            "/images/product/fashion/28-3.png",
-            "/images/product/fashion/28-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -1904,36 +1904,36 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/29-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/29-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/29-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/29-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/29-1.png",
-            "/images/product/fashion/29-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/29-1.png",
-            "/images/product/fashion/29-2.png",
-            "/images/product/fashion/29-3.png",
-            "/images/product/fashion/29-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -1943,7 +1943,7 @@
         "id": "33",
         "category": "fashion",
         "type": "underwear",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -1966,46 +1966,46 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/30-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/30-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/30-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/30-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/30-1.png",
-            "/images/product/fashion/30-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/30-1.png",
-            "/images/product/fashion/30-2.png",
-            "/images/product/fashion/30-3.png",
-            "/images/product/fashion/30-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "34",
         "category": "fashion",
         "type": "underwear",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -2028,39 +2028,39 @@
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/31-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/31-3.png"
+                "image": "/images/products/-3.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/31-1.png"
+                "image": "/images/products/-1.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/31-1.png",
-            "/images/product/fashion/31-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/31-1.png",
-            "/images/product/fashion/31-2.png",
-            "/images/product/fashion/31-3.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "35",
         "category": "fashion",
         "type": "swimwear",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "women",
         "new": true,
         "sale": false,
@@ -2083,40 +2083,40 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/32-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/32-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/32-3.png"
+                "image": "/images/products/-3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/32-1.png",
-            "/images/product/fashion/32-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/32-1.png",
-            "/images/product/fashion/32-2.png",
-            "/images/product/fashion/32-3.png",
-            "/images/product/fashion/32-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "36",
         "category": "fashion",
         "type": "swimwear",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "women",
         "new": false,
         "sale": true,
@@ -2139,28 +2139,28 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/33-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/underwear-purple.png",
-                "image": "/images/product/fashion/33-4.png"
+                "image": "/images/products/-4.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/33-1.png",
-            "/images/product/fashion/33-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/33-1.png",
-            "/images/product/fashion/33-2.png",
-            "/images/product/fashion/33-3.png",
-            "/images/product/fashion/33-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "37",
@@ -2189,40 +2189,40 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/34-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/34-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#1F1F1F",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/34-3.png"
+                "image": "/images/products/-3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/34-1.png",
-            "/images/product/fashion/34-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/34-1.png",
-            "/images/product/fashion/34-2.png",
-            "/images/product/fashion/34-3.png",
-            "/images/product/fashion/34-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "38",
         "category": "fashion",
         "type": "swimwear",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "women",
         "new": false,
         "sale": true,
@@ -2245,34 +2245,34 @@
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/35-4.png"
+                "image": "/images/products/-4.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/35-3.png"
+                "image": "/images/products/-3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/35-1.png",
-            "/images/product/fashion/35-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/35-1.png",
-            "/images/product/fashion/35-2.png",
-            "/images/product/fashion/35-3.png",
-            "/images/product/fashion/35-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "39",
         "category": "fashion",
         "type": "swimwear",
-        "name": "T-shirt Pockets",
+        "name": "blue Pockets",
         "gender": "women",
         "new": false,
         "sale": true,
@@ -2295,34 +2295,34 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/underwear-white.png",
-                "image": "/images/product/fashion/36-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/underwear-red.png",
-                "image": "/images/product/fashion/36-2.png"
+                "image": "/images/products/-2.png"
             },
             {
                 "color": "black",
                 "colorCode": "#555",
                 "colorImage": "/images/product/color/underwear-black.png",
-                "image": "/images/product/fashion/36-3.png"
+                "image": "/images/products/-3.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/36-1.png",
-            "/images/product/fashion/36-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/36-1.png",
-            "/images/product/fashion/36-2.png",
-            "/images/product/fashion/36-3.png",
-            "/images/product/fashion/36-4.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png",
+            "/images/products/-3.png",
+            "/images/products/-4.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
-        "slug": "t-shirt"
+        "slug": "blue"
     },
     {
         "id": "391",
@@ -2503,7 +2503,7 @@
         "id": "396",
         "category": "fashion",
         "type": "accessories",
-        "name": "T-shirt",
+        "name": "blue",
         "gender": "women",
         "new": false,
         "sale": true,
@@ -6742,22 +6742,22 @@
                 "color": "grey",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/37-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/37-2.png"
+                "image": "/images/products/-2.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/37-1.png",
-            "/images/product/fashion/37-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/37-1.png",
-            "/images/product/fashion/37-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -6789,22 +6789,22 @@
                 "color": "red",
                 "colorCode": "#DB4444",
                 "colorImage": "/images/product/color/red.png",
-                "image": "/images/product/fashion/38-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "purple",
                 "colorCode": "#8684D4",
                 "colorImage": "/images/product/color/purple.png",
-                "image": "/images/product/fashion/38-2.png"
+                "image": "/images/products/-2.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/38-1.png",
-            "/images/product/fashion/38-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/38-1.png",
-            "/images/product/fashion/38-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",
@@ -6836,22 +6836,22 @@
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/39-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "grey",
                 "colorCode": "#F6EFDD",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/39-2.png"
+                "image": "/images/products/-2.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/39-1.png",
-            "/images/product/fashion/39-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/39-1.png",
-            "/images/product/fashion/39-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "quick shop",
@@ -6883,22 +6883,22 @@
                 "color": "black",
                 "colorCode": "#1F1F1F",
                 "colorImage": "/images/product/color/green.png",
-                "image": "/images/product/fashion/40-1.png"
+                "image": "/images/products/-1.png"
             },
             {
                 "color": "yellow",
                 "colorCode": "#ECB018",
                 "colorImage": "/images/product/color/yellow.png",
-                "image": "/images/product/fashion/40-2.png"
+                "image": "/images/products/-2.png"
             }
         ],
         "thumbImage": [
-            "/images/product/fashion/40-1.png",
-            "/images/product/fashion/40-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "images": [
-            "/images/product/fashion/40-1.png",
-            "/images/product/fashion/40-2.png"
+            "/images/products/-1.png",
+            "/images/products/-2.png"
         ],
         "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
         "action": "add to cart",

@@ -46,12 +46,12 @@ const Collection = () => {
                         className='h-full'
                     >
                         <SwiperSlide>
-                            <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('swimwear')}>
+                            <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer bg-surface2" onClick={() => handleTypeClick('swimwear')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/swimwear.png'}
-                                        width={1000}
-                                        height={600}
+                                        src={'/images/collections/department2.png'}
+                                        width={700}
+                                        height={400}
                                         alt='swimwear'
                                     />
                                 </div>
@@ -62,9 +62,9 @@ const Collection = () => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('top')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/top.png'}
-                                        width={1000}
-                                        height={600}
+                                        src={'/images/collections/2.png'}
+                                        width={700}
+                                        height={400}
                                         alt='top'
                                     />
                                 </div>
@@ -75,9 +75,9 @@ const Collection = () => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('sets')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/sets.png'}
-                                        width={1000}
-                                        height={600}
+                                        src={'/images/collections/5.png'}
+                                        width={700}
+                                        height={400}
                                         alt='sets'
                                     />
                                 </div>
@@ -88,9 +88,9 @@ const Collection = () => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('outerwear')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/outerwear.png'}
-                                        width={1000}
-                                        height={600}
+                                        src={'/images/collections/3.png'}
+                                        width={700}
+                                        height={400}
                                         alt='outerwear'
                                     />
                                 </div>
@@ -101,9 +101,9 @@ const Collection = () => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('underwear')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/underwear.png'}
-                                        width={1000}
-                                        height={600}
+                                        src={'/images/collections/7.png'}
+                                        width={700}
+                                        height={400}
                                         alt='underwear'
                                     />
                                 </div>
@@ -114,9 +114,9 @@ const Collection = () => {
                             <div className="collection-item block relative rounded-2xl overflow-hidden cursor-pointer" onClick={() => handleTypeClick('t-shirt')}>
                                 <div className="bg-img">
                                     <Image
-                                        src={'/images/collection/t-shirt.png'}
-                                        width={1000}
-                                        height={600}
+                                        src={'/images/collections/5.png'}
+                                        width={700}
+                                        height={400}
                                         alt='t-shirt'
                                     />
                                 </div>

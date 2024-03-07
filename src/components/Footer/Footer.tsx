@@ -12,7 +12,7 @@ const Footer = () => {
                         <div className="content-footer py-[60px] flex justify-between flex-wrap gap-y-8">
                             <div className="company-infor basis-1/4 max-lg:basis-full pr-7">
                                 <Link href={'/'} className="logo">
-                                    <div className="heading4">Anvogue</div>
+                                    <div className="heading4">BidCart</div>
                                 </Link>
                                 <div className='flex gap-3 mt-3'>
                                     <div className="flex flex-col ">
@@ -21,9 +21,9 @@ const Footer = () => {
                                         <span className="text-button mt-3">Address:</span>
                                     </div>
                                     <div className="flex flex-col ">
-                                        <span className=''>hi.avitex@gmail.com</span>
-                                        <span className='mt-3'>1-333-345-6868</span>
-                                        <span className='mt-3 pt-px'>549 Oak St.Crystal Lake, IL 60014</span>
+                                        <span className=''>arunlajayan@gmail.com</span>
+                                        <span className='mt-3'>9633720375</span>
+                                        <span className='mt-3 pt-px'>Kerala ,  India 60014</span>
                                     </div>
                                 </div>
                             </div>
@@ -38,23 +38,7 @@ const Footer = () => {
                                         <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/pages/faqs'}>FAQs</Link>
                                     </div>
                                     <div className="item flex flex-col basis-1/3 ">
-                                        <div className="text-button-uppercase pb-3">Quick Shop</div>
-                                        <Link className='caption1 has-line-before duration-300 w-fit' href={'/shop/breadcrumb1'}>Women</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/shop/breadcrumb1'}>Men</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/shop/breadcrumb1'}>Clothes</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/shop/breadcrumb1'}>Accessories</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/blog'}>Blog</Link>
-                                    </div>
-                                    <div className="item flex flex-col basis-1/3 ">
-                                        <div className="text-button-uppercase pb-3">Customer Services</div>
-                                        <Link className='caption1 has-line-before duration-300 w-fit' href={'/pages/faqs'}>Orders FAQs</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/pages/faqs'}>Shipping</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/pages/faqs'}>Privacy Policy</Link>
-                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/order-tracking'}>Return & Refund</Link>
-                                    </div>
-                                </div>
-                                <div className="newsletter basis-1/3 pl-7 max-md:basis-full max-md:pl-0">
-                                    <div className="text-button-uppercase">Newletter</div>
+                                       <div className="text-button-uppercase">SUBSCRIBE TO OUR NEWSLETTER</div>
                                     <div className="caption1 mt-3">Sign up for our newsletter and get 10% off your first purchase</div>
                                     <div className="input-block w-full h-[52px] mt-4">
                                         <form className='w-full h-full relative' action="post">
@@ -64,6 +48,27 @@ const Footer = () => {
                                             </button>
                                         </form>
                                     </div>
+                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/blog'}>Blog</Link>
+                                    </div>
+                                    {/* <div className="item flex flex-col basis-1/3 ">
+                                        <div className="text-button-uppercase pb-3">Customer Services</div>
+                                        <Link className='caption1 has-line-before duration-300 w-fit' href={'/pages/faqs'}>Orders FAQs</Link>
+                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/pages/faqs'}>Shipping</Link>
+                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/pages/faqs'}>Privacy Policy</Link>
+                                        <Link className='caption1 has-line-before duration-300 w-fit pt-2' href={'/order-tracking'}>Return & Refund</Link>
+                                    </div> */}
+                                </div>
+                                <div className="newsletter basis-1/3 pl-7 max-md:basis-full max-md:pl-0">
+                                <div className="caption1 text-secondary">Payment:</div>
+                                <div className="payment-img">
+                                    <Image
+                                        src={'/images/payment/payment.png'}
+                                        width={250}
+                                        height={250}
+                                        alt={'payment'}
+                                        
+                                    />
+                                </div>
                                     <div className="list-social flex items-center gap-6 mt-4">
                                         <Link href={'https://www.facebook.com/'} target='_blank'>
                                             <div className="icon-facebook text-2xl text-black"></div>
@@ -86,7 +91,7 @@ const Footer = () => {
                         </div>
                         <div className="footer-bottom py-3 flex items-center justify-between gap-5 max-lg:justify-center max-lg:flex-col border-t border-line">
                             <div className="left flex items-center gap-8">
-                                <div className="copyright caption1 text-secondary">©2023 Anvogue. All Rights Reserved.</div>
+                                <div className="copyright caption1 text-secondary">©2023 BidCart. All Rights Reserved.</div>
                                 <div className="select-block flex items-center gap-5 max-md:hidden">
                                     <div className="choose-language flex items-center gap-1.5">
                                         <select name="language" id="chooseLanguageFooter" className='caption2 bg-transparent'>
@@ -107,17 +112,8 @@ const Footer = () => {
                                 </div>
                             </div>
                             <div className="right flex items-center gap-2">
-                                <div className="caption1 text-secondary">Payment:</div>
-                                <div className="payment-img">
-                                    <Image
-                                        src={'/images/payment/Frame-0.png'}
-                                        width={500}
-                                        height={500}
-                                        alt={'payment'}
-                                        className='w-9'
-                                    />
-                                </div>
-                                <div className="payment-img">
+                                
+                                {/* <div className="payment-img">
                                     <Image
                                         src={'/images/payment/Frame-1.png'}
                                         width={500}
@@ -161,7 +157,7 @@ const Footer = () => {
                                         alt={'payment'}
                                         className='w-9'
                                     />
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
